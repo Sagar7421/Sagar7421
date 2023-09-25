@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Sanghani. Currently Pursuing my Master in Applied Computer Science @ Concordia University, Montreal
-- 👀 I’m interested in Artificial Intelligence, Python programming and Music
-- 🌱 I’m currently learning Reinforcement Learning
+- 👀 I’m interested in Artificial Intelligence, Software Development and Music
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sagar-sanghani/) [Email](mailto:imsagar2210@gmail.com)
 - I do like solving problems. I often use leetcode. 
 
